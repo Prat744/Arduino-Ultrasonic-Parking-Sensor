@@ -87,3 +87,8 @@ Electronics & Telecommunication Engineering Student
 ---
 
 ⭐ This project was built as a hands-on learning project to strengthen practical electronics and embedded-system fundamentals.
+## 📊 Project Documentation
+
+The project was tested using the HC-SR04 ultrasonic sensor. The testing results, Serial Monitor readings, circuit, and project implementation are documented below.
+
+📄 [View Project Testing & Circuit Documentation](./Arduino%20project-1.pdf)
